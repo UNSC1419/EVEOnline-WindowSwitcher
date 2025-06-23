@@ -1,0 +1,32 @@
+{
+    "hotkeys": {
+        "first": "F23",
+        "next": "F24"
+    },
+    "characters": [
+        {
+            "name": "Nany 1419",
+            "enabled": true
+        },
+        {
+            "name": "Laya A",
+            "enabled": true
+        },
+        {
+            "name": "Laya B",
+            "enabled": true
+        },
+        {
+            "name": "xiang sss",
+            "enabled": true
+        },
+        {
+            "name": "Cyno Drekavac",
+            "enabled": true
+        },
+        {
+            "name": "Nassy Blacky",
+            "enabled": true
+        }
+    ]
+}
